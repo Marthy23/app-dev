@@ -4,6 +4,6 @@ My first repository
 **Netflix**
 1. Alice in Borderland
 2. K-Drama
-joy:
+:joy:
 **Marvel Series**
 1. Loki
